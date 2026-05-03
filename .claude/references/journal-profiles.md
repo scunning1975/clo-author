@@ -77,6 +77,18 @@ Each journal profile includes a **Referee pool** that weights which dispositions
 
 ---
 
+**Generalist Applied (sub-top-5)**
+
+### The Economic Journal (EJ)
+**Focus:** All fields of economics — generalist with strong international and theory-empirics integration tradition. Royal Economic Society's flagship; broad readership beyond the subfield.
+**Bar:** Substantial contribution of broad interest. Below top-5 in selectivity but expects clean execution, theoretical motivation, and clear positioning relative to the international literature. Strong fit for theory-tested-empirically papers where the model itself does work, not just decoration.
+**Domain referee adjusts:** Contribution must travel beyond the subfield — "why should an economist not in this area read this?" Theoretical framework valued; reduced-form work is welcome but should be motivated by a model or a clear conceptual frame. International/comparative perspective appreciated. Engagement with non-US literature expected when relevant.
+**Methods referee adjusts:** Identification expected to be credible but not necessarily quasi-experimental. Selection corrections, structural-form arguments, and theory-disciplined empirical specifications all acceptable when motivated. Robustness battery should match the strength of the claim. Heterogeneity by relevant margins. Less fixation on staggered DiD orthodoxy than top-5; more attention to whether the empirical specification follows from the theory.
+**Typical concerns:** "Why does the broader economics audience care?" "Is the model doing work, or is it decoration?" "How does this generalize beyond your sample?" "Have you engaged the European/international literature, or only the US-centric papers?"
+**Referee pool:** THEORY (high), CREDIBILITY (high), STRUCTURAL (medium), POLICY (medium), SKEPTIC (low), MEASUREMENT (low)
+
+---
+
 **Top Field Journals**
 
 ### American Economic Journal: Applied Economics (AEJ:Applied)
@@ -129,13 +141,21 @@ Each journal profile includes a **Referee pool** that weights which dispositions
 **Typical concerns:** "What's the elasticity?" "Extensive or intensive margin?" "Welfare implications of the tax/transfer change?"
 **Referee pool:** STRUCTURAL (high), POLICY (high), CREDIBILITY (medium), THEORY (medium), MEASUREMENT (low), SKEPTIC (low)
 
-### Journal of Labor Economics (JLE)
+### Journal of Labor Economics (JOLE)
 **Focus:** Labor markets — wages, employment, human capital, discrimination, immigration
 **Bar:** Clean labor economics with careful identification. Understanding of labor market institutions.
 **Domain referee adjusts:** Wage determination, employment effects, human capital returns, discrimination, unions, immigration. Mincer equations and labor supply models. Firm-worker matched data valued. Monopsony and market power in labor markets.
 **Methods referee adjusts:** Selection correction (Heckman, Lee bounds) when relevant. Decomposition methods for wage gaps. Clean identification of causal effects on wages/employment. Event study designs around job transitions or policy changes.
 **Typical concerns:** "Is this a supply or demand effect?" "Selection into employment?" "What about general equilibrium effects?"
 **Referee pool:** CREDIBILITY (high), STRUCTURAL (medium), MEASUREMENT (medium), THEORY (medium), POLICY (low), SKEPTIC (low)
+
+### Journal of Law and Economics (JLE)
+**Focus:** Economic analysis of legal and regulatory institutions — illegal markets, contracts, antitrust, property rights, regulation, vice, self-enforcement, informal institutions where formal contracts fail. Founded by Aaron Director (1958); the Coase tradition.
+**Bar:** Clear economic insight applied to a legal or institutional question. Identification standards looser than top-five applied micro; institutional clarity, comparative-institutional reasoning, and case evidence are weighted highly. Convenience samples and within-market evidence are acceptable when the institutional structure is the point. Theory-plus-empirics combinations valued; pure-empirical work needs an unusually clean legal-institutional hook.
+**Domain referee adjusts:** Institutional detail is the currency. The paper should describe the legal or quasi-legal context, the relevant statutes or case law where applicable, and the comparative-institutional alternatives that participants face. Coasean framings (transaction costs, externalities, property rights, residual claimants) carry weight. Self-enforcement, reputational mechanisms, and substitutes for formal contract enforcement are core topics. Illegal markets, vice, and the economics of regulation have a long history in this journal. Comparison to other institutional responses to the same market failure is expected.
+**Methods referee adjusts:** Causal identification is desired but not required. Selection corrections, structural arguments, calibration, and within-market descriptive evidence are all acceptable when the institutional claim is the contribution. Standard errors and robustness should be honest but not exhaustive. Replication packages are expected at acceptance. Structural estimation of institutional primitives is welcomed but not gatekeeping.
+**Typical concerns:** "Is this really law-and-economics or applied micro that mentions a statute?" "What is the institutional mechanism, and how does it compare to alternative institutions that address the same market failure?" "What does the legal context add that a generic markets analysis would miss?" "Have you engaged the Coasean / transaction-cost / property-rights tradition?"
+**Referee pool:** STRUCTURAL (high), THEORY (medium), POLICY (medium), CREDIBILITY (medium), SKEPTIC (low), MEASUREMENT (low)
 
 ### Journal of Development Economics (JDE)
 **Focus:** Development economics — poverty, institutions, agriculture, trade in developing countries
